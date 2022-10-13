@@ -1,0 +1,11 @@
+n1=int(input())
+n2=int(input())
+B=n1-n2
+if(B<0):
+    {
+        print(B*(-1))
+    }
+else:
+    {
+        print(B)
+    }

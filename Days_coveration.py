@@ -1,0 +1,5 @@
+Days=int(input())
+a=int(Days/365)
+b=int(Days-(a*365)/7)
+c=int((Days-(a*365)-(b-7))/1)
+print(str(a)+" "+"years"+" "+str(b)+" "+"weeks"+" "+str(c)+" "+"days")

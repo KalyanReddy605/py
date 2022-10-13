@@ -1,0 +1,19 @@
+string=str(input())
+A=int(input())
+B=int(input())
+if(string=="+"):
+    {
+        print(A+B)
+    }
+elif(string=="-"):
+    {
+        print(A-B)
+    }
+elif(string=="*"):
+    {
+        print(A*B)
+    }
+elif(string=="%"):
+    {
+        print(A%B)
+    }

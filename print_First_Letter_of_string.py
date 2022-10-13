@@ -1,0 +1,7 @@
+name1=input()
+name1=str(name1)
+name2=input()
+name2=str(name2)
+name3=input()
+name3=str(name3)
+print(name1[0]+name2[0]+name3[0])

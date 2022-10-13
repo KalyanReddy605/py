@@ -1,0 +1,8 @@
+name1=input()
+name1=str(name1)
+name2=input()
+name2=str(name2)
+length=len(name1)
+print(name1)
+print("_ "*length)
+print(name2)

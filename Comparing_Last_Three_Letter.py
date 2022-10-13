@@ -1,0 +1,14 @@
+n1=input()
+n1=str(n1)
+n2=input()
+n2=str(n2)
+N1=n1[0-3]
+N2=(n2[0-3])
+if(N1==N2):
+    {
+    print("TRUE")
+}
+else:
+    {
+        print("False")
+    }

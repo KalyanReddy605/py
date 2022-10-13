@@ -1,0 +1,29 @@
+n=int(input())
+if(n==1):
+    {
+        print("Monday")
+    }
+elif(n==2):
+    {
+        print("Tuesday")
+    }
+elif(n==2):
+    {
+        print("Wednesday")
+    }
+elif(n==3):
+    {
+        print("Thursday")
+    }
+elif(n==4):
+    {
+        print("Friday")
+    }
+elif(n==5):
+    {
+        print("Saturday")
+    }
+elif(n==6):
+    {
+        print("Sunday")
+    }
